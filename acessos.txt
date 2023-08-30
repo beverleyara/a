@@ -1,0 +1,6 @@
+
+[16:08] - [::1] - /banco_brasil_mobile/ - http://localhost/ - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[17:52] - [::1] - /banco_brasil_mobile/ - http://localhost/ - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[02:44] - [::1] - /banco_brasil_mobile/ -  - Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[02:44] - [::1] - /banco_brasil_mobile/ -  - Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[22:55] - [::1] - /banco_brasil_mobile/ -  - Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
